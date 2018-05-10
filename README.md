@@ -4,4 +4,4 @@ I try to apply what I learned from fastai course on flower dataset. I decide to 
 
 Each type of flower is divideid into train(200 image) and valid(100 image)
 
-if there is an issue to view the ipnyb notebook, just view the pdf version. it is not that good but it is btter than nothing :)
+if there is an issue to view the ipnyb notebook, just view the pdf version. the pdf version by the way look messy  though
