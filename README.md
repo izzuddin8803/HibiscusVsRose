@@ -1,4 +1,5 @@
 
+# Image Rocognition on Hibiscus Vs Rose Using Neural Network
 
 I try to apply what I learned from fastai course on flower dataset. I decide to try with 300 images of Roses and 300 images of Hibiscus since they are quite similiar in colour but different in shape.Each type of flower is divided into training set (200 image) and validation set(100 image) This notebook is written to test how accurate resnet34 is on these Roses and Hibiscus Dataset. I ran this model using google cloud platform as my personal pc has low GPU capabilties.
 
